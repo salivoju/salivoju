@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SukeshSalivoju
+- 👀 I’m interested in Data Science , Data Analyst , Machine Learning , NLP
+- 🌱 I’m currently learning Data Science , ML , Tableau 
+- 💞️ I’m looking to collaborate on data science relative field.
+- 📫 reach me at salivojusukesh17@gmail.com 
+- I have 1+yrs experience in java application developer using IBM ODM Tool and Unit Testing with Soap UI.
